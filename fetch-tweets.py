@@ -3,7 +3,7 @@ import pandas as pd
 import datetime
 
 # Replace this with your real Bearer Token
-BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAPfM2QEAAAAAA9L5wJCCcBMs6vV4SP1mRX%2Fi72I%3DhCrfiIP9iI5MwpiIk8nI9PUVsEH0c7ItMD1NNoDs36vnkUzp3B'
+BEARER_TOKEN = 'Replace_with_your_bearer_token'
 
 # Initialize Tweepy Client
 client = tweepy.Client(bearer_token=BEARER_TOKEN)
