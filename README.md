@@ -17,7 +17,7 @@ A web-based dashboard that fetches **real-time tweets** from Twitter, analyzes t
 
 ## 🚀 How to Run the Project
 
-### 1. Clone this repository
+### Clone this repository
 ```bash
 git clone https://github.com/yourusername/social-media-sentiment-tracker-minor-project.git
 cd social-media-sentimant-tracker
@@ -26,5 +26,9 @@ pip install -r requirements.txt
 
 python app.py
 
+```
+---
 
+### Sample output
+![Sentiment Analysis Output](sentiment-analysis-out.png)
 
